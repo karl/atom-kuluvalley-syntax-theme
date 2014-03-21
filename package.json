@@ -1,7 +1,7 @@
 {
   "name": "kuluvalley",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An Atom syntax theme based on Morrowind",
   "repository": "https://github.com/karl/atom-kuluvalley-syntax-theme",
   "license": "MIT",
